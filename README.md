@@ -1,4 +1,5 @@
-# *created repository.
+# Web Assignment Steps
+* created repository.
 * and cloned to the local machine
 * index file created in a source folder which is in repository
 * branch created to main.
